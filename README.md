@@ -1,3 +1,4 @@
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J0Y7221YZG) ![](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Design-Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white) ![](https://img.shields.io/badge/Data-100%25_Local-00BCD4?style=flat-square) 
 # Renev Medication
 
 **Be reminded quickly and easily to take your medication, in a beautiful, well-organized app.**
@@ -25,12 +26,6 @@ Because the application is currently distributed via GitHub and is in the testin
 2. **Open the file:** Tap the downloaded file on your Android device.
 
 3. **Allow unknown sources:** For security reasons, Android asks if you want to allow installations from your browser or GitHub. Tap *Settings* in the pop-up window and enable the *"Allow from this source"* option. 4. **Complete the installation:** Return to the installation screen and tap **Install**. You can now use the app.
-
-## Support the project
-
-Renev Medication is an independent project and contains no advertisements. If you find this application useful and wish to support its further development, please consider donating a virtual coffee.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J0Y7221YZG)
 
 ## License and Copyright
 
