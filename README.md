@@ -1,4 +1,4 @@
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J0Y7221YZG) ![](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Design-Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white) ![](https://img.shields.io/badge/Data-100%25_Local-00BCD4?style=flat-square) 
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Support-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/J0Y7221YZG) ![](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white) ![](https://img.shields.io/badge/Design-Material_3-757575?style=flat-square&logo=materialdesign&logoColor=white) ![](https://img.shields.io/badge/Data-100%25_Local-00BCD4?style=flat-square) 
 # Renev Medication
 
 **Be reminded quickly and easily to take your medication, in a beautiful, well-organized app.**
