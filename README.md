@@ -12,6 +12,10 @@ Renev Medication is a modern, intuitive Android app designed to help you remembe
 * **Today's Overview:** The home screen shows you at a glance which medications you need to take today and at which specific times. Taking it a little later today? No problem, adjust it.
 * **Privacy comes first:** Your medical data belongs to you. All data and log files are stored 100% locally on your own device. No medical data is sent to or shared with external servers. An important addition is that if you connect to the Renev Medication Servers, you must always first verify that you want to do so.
 
+## What I promise
+
+I will never add advertisements to the app; this only makes the user experience worse. Your data will always remain secure and will never reach the Renev Medication servers. If we were to add accounts, the data would not be stored with us either.
+
 ## Installation Guide
 
 Because the application is currently distributed via GitHub and is in the testing phase, you can install the application manually using the APK file. Follow these steps:
